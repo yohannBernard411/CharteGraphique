@@ -1,5 +1,6 @@
 from color_convert import *
 import webbrowser
+import os
 
 def generate_charte():
     hexa = input_hexa()
@@ -62,7 +63,7 @@ def generate_charte():
         a_writer.write("    </body>\n")
         a_writer.write("</html>\n")
         a_writer.close()
-    url = 'file://C:/Users/yohan/Desktop/testCharteGraphique/charte.html'
+    url = os.path.abspath(os.path.split(__file__)[0])+'/charte.html'
     webbrowser.open_new_tab(url)
 
 generate_charte()
