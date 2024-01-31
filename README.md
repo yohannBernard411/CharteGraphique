@@ -8,7 +8,7 @@ Pour gagner du temps lors de la conception de la maquette sous figma.
 J'avais déterminer un ensemble de couleur pour mon portefolio et je m'en suis servit de base pour ce générateur.
 
 
-![Ma charte portefolio](C:\Users\yohan\Desktop\testCharteGraphique\ChartePortefolio.png "Ma charte portefolio").
+![Ma charte portefolio](https://github.com/yohannBernard411/CharteGraphique/blob/main/ChartePortefolio.png?raw=true "Ma charte portefolio").
 
 2 Recherche
 ===========
@@ -51,7 +51,7 @@ La console vous demande alors la couleur en hexa (Ne pas oublié le # devant)
 
 Puis le navigateur s'ouvre pour vous afficher la charte graphique créée
 
-![Nouvelle charte graphique](C:\Users\yohan\Desktop\testCharteGraphique\CharteBrowser.png "Nouvelle charte graphique").
+![Nouvelle charte graphique](https://github.com/yohannBernard411/CharteGraphique/blob/main/CharteBrowser.png?raw=true "Nouvelle charte graphique").
 
 
 6 Conclusion
